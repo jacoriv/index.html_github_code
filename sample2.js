@@ -5,7 +5,11 @@
   	
   	
   	
-   //blank	
+   	
+   alert(“Hello	
+  Word”)	
+  	
+  
   	
   	
    }
